@@ -45,7 +45,7 @@ The system utilizes a Convolutional Neural Network (CNN) architecture to classif
 
 3.Download the dataset and place it in the appropriate folder (/data).
 
-   python train.py
+    python train.py
     This script will:
     Load the dataset.
     Preprocess the images.
